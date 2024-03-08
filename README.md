@@ -93,7 +93,7 @@ Initial release
 
 ## GitHub
 
-The code for this extension is available on github at: https://github.com/vrjuliao/sml-vscode-extension
+A previous version of the code for this extension is available on github at: https://github.com/vrjuliao/sml-vscode-extension
 
 ## Like this work?
 
